@@ -1,0 +1,1 @@
+export const LoggedAdmin = JSON.parse(localStorage.getItem("userData"))
